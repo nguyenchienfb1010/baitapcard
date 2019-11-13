@@ -1,0 +1,12 @@
+.card-body{
+	border: 1px solid gray;
+	border-top: none;
+}
+.text{
+	color: #00FCFF;
+}
+.container{
+	background: #E3E3E3;
+	padding: 3rem 0;
+	margin-top: 5rem;
+}
